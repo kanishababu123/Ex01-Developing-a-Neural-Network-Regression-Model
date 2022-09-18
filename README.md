@@ -47,8 +47,8 @@ Evaluate the model with the testing data.
 ## PROGRAM
 
 ```
-#Developed by B.Kavya
-# Register number: 212220230007
+#Developed by B.KANISHA
+# Register number: 212219220021
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
